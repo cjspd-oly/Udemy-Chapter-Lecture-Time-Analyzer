@@ -1,0 +1,59 @@
+{
+    "json_data": {
+        "3515300": {
+            "instructor": "Dr. Mostafa Saad",
+            "curriculum_context": {
+                "data": {
+                    "sections": [
+                        {
+                            "title": "Getting Started",
+                            "content_length_text": "28:38",
+                            "lecture_count": 9,
+                            "items": [
+                                {
+                                    "title": "Why Programming? C++?",
+                                    "content_summary": "04:48",
+                                    "learn_url": "/course/cpp-4skills/learn/lecture/22870817",
+                                    "object_index": 1,
+                                    "item_type": "lecture"
+                                },
+                                {
+                                    "title": "Who should take this course?",
+                                    "content_summary": "01:44",
+                                    "learn_url": "/course/cpp-4skills/learn/lecture/23064430",
+                                    "object_index": 2,
+                                    "item_type": "lecture"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Installation",
+                            "content_length_text": "34:25",
+                            "lecture_count": 8,
+                            "items": [
+                                {
+                                    "title": "Overall tools",
+                                    "content_summary": "03:14",
+                                    "learn_url": "/course/cpp-4skills/learn/lecture/22617238",
+                                    "object_index": 10,
+                                    "item_type": "lecture"
+                                },
+                                {
+                                    "title": "Installing Codeblocks on Linux",
+                                    "content_summary": "01:16",
+                                    "learn_url": "/course/cpp-4skills/learn/lecture/22617450",
+                                    "object_index": 11,
+                                    "item_type": "lecture"
+                                }
+                            ]
+                        }
+                    ],
+                    "estimated_content_length_text": "33:27:50",
+                    "num_of_published_lectures": 374,
+                    "course_title": "Mastering 4 critical SKILLS using C++ 17",
+                    "course_url": "/course/cpp-4skills/"
+                }
+            }
+        }
+    }
+}
